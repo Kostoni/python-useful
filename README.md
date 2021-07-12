@@ -1,5 +1,3 @@
-[I'm an inline-style link](https://www.google.com)
-
 ### Полезные ссылки
 
 - [Awesome python](https://github.com/augustogoulart/awesome-pytest)
