@@ -15,10 +15,11 @@
 
 - [Faker](https://faker.readthedocs.io/en/master/)
 
-### Валидация json
+### Валидация данных
 
 - [Cerberus](https://docs.python-cerberus.org/en/stable/index.html)
 - [JsonSchema](https://python-jsonschema.readthedocs.io/en/stable/)
+- [pydantic](https://pydantic-docs.helpmanual.io/)
 
 ### Selenium
 
